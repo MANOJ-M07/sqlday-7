@@ -1,0 +1,8 @@
+D:\simplilearn\Course-2\day-7\DisconnectArc\DisconnectArc\bin\Debug\DisconnectArc.exe.config
+D:\simplilearn\Course-2\day-7\DisconnectArc\DisconnectArc\bin\Debug\DisconnectArc.exe
+D:\simplilearn\Course-2\day-7\DisconnectArc\DisconnectArc\bin\Debug\DisconnectArc.pdb
+D:\simplilearn\Course-2\day-7\DisconnectArc\DisconnectArc\obj\Debug\DisconnectArc.csproj.AssemblyReference.cache
+D:\simplilearn\Course-2\day-7\DisconnectArc\DisconnectArc\obj\Debug\DisconnectArc.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\Course-2\day-7\DisconnectArc\DisconnectArc\obj\Debug\DisconnectArc.csproj.CoreCompileInputs.cache
+D:\simplilearn\Course-2\day-7\DisconnectArc\DisconnectArc\obj\Debug\DisconnectArc.exe
+D:\simplilearn\Course-2\day-7\DisconnectArc\DisconnectArc\obj\Debug\DisconnectArc.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisconnectArc", "DisconnectArc\DisconnectArc.csproj", "{95D1940C-7E92-4D93-BC05-C48E9DB07D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D1940C-7E92-4D93-BC05-C48E9DB07D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D1940C-7E92-4D93-BC05-C48E9DB07D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D1940C-7E92-4D93-BC05-C48E9DB07D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D1940C-7E92-4D93-BC05-C48E9DB07D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2143B1CA-0219-47B2-8410-09003A69CE06}
+	EndGlobalSection
+EndGlobal

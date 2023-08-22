@@ -1,0 +1,16 @@
+D:\simplilearn\Course-2\Practiceproject\PracticeProject-1\SchoolDatabase\SchoolDatabase\bin\Debug\SchoolDatabase.exe.config
+D:\simplilearn\Course-2\Practiceproject\PracticeProject-1\SchoolDatabase\SchoolDatabase\bin\Debug\SchoolDatabase.exe
+D:\simplilearn\Course-2\Practiceproject\PracticeProject-1\SchoolDatabase\SchoolDatabase\bin\Debug\SchoolDatabase.pdb
+D:\simplilearn\Course-2\Practiceproject\PracticeProject-1\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.AssemblyReference.cache
+D:\simplilearn\Course-2\Practiceproject\PracticeProject-1\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\Course-2\Practiceproject\PracticeProject-1\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.CoreCompileInputs.cache
+D:\simplilearn\Course-2\Practiceproject\PracticeProject-1\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.exe
+D:\simplilearn\Course-2\Practiceproject\PracticeProject-1\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.pdb
+D:\simplilearn\Course-2\day-7\Assignments\SchoolDatabase\bin\Debug\SchoolDatabase.exe.config
+D:\simplilearn\Course-2\day-7\Assignments\SchoolDatabase\bin\Debug\SchoolDatabase.exe
+D:\simplilearn\Course-2\day-7\Assignments\SchoolDatabase\bin\Debug\SchoolDatabase.pdb
+D:\simplilearn\Course-2\day-7\Assignments\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.AssemblyReference.cache
+D:\simplilearn\Course-2\day-7\Assignments\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\Course-2\day-7\Assignments\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.CoreCompileInputs.cache
+D:\simplilearn\Course-2\day-7\Assignments\SchoolDatabase\obj\Debug\SchoolDatabase.exe
+D:\simplilearn\Course-2\day-7\Assignments\SchoolDatabase\obj\Debug\SchoolDatabase.pdb
